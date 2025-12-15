@@ -18,7 +18,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #D92828 0%, #cb46af 100%);
             position: relative;
             overflow: hidden;
         }
@@ -74,7 +74,7 @@
 
         .cta-button:hover {
             background: white;
-            color: #667eea;
+            color: #c24396;
             transform: translateY(-3px);
             box-shadow: 0 10px 30px rgba(0,0,0,0.3);
         }
@@ -107,7 +107,7 @@
         .logo {
             font-size: 24px;
             font-weight: bold;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #c15490 0%, #a229b1 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -133,7 +133,7 @@
             left: 0;
             width: 0;
             height: 2px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #d63e99 0%, #ac357c 100%);
             transition: width 0.3s;
         }
 
@@ -152,7 +152,7 @@
             font-size: 48px;
             margin-bottom: 60px;
             text-align: center;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #ea66b7 0%, #a24b75 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -172,10 +172,11 @@
         .about-image {
             width: 300px;
             height: 300px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #bd4983 0%, #764ba2 100%);
             border-radius: 20px;
             flex-shrink: 0;
         }
+
 
         .about-text {
             flex: 1;
@@ -184,7 +185,7 @@
         .about-text h3 {
             font-size: 32px;
             margin-bottom: 20px;
-            color: #667eea;
+            color: #ea66ba;
         }
 
         .about-text p {
@@ -216,7 +217,7 @@
 
         .skill-card:hover {
             transform: translateY(-10px);
-            border-color: #667eea;
+            border-color: #ea66af;
             box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);
         }
 
@@ -228,7 +229,7 @@
         .skill-card h3 {
             font-size: 24px;
             margin-bottom: 15px;
-            color: #667eea;
+            color: #ea6699;
         }
 
         .skill-card p {
@@ -263,7 +264,7 @@
         .project-image {
             width: 100%;
             height: 250px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #ea66b7 0%, #c24b85 100%);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -290,15 +291,15 @@
             display: inline-block;
             padding: 10px 25px;
             background: rgba(102, 126, 234, 0.2);
-            color: #667eea;
+            color: #ea6690;
             text-decoration: none;
             border-radius: 25px;
-            border: 1px solid #667eea;
+            border: 1px solid #ea6690;
             transition: all 0.3s;
         }
 
         .project-link:hover {
-            background: #667eea;
+            background: #ea66af;
             color: white;
         }
 
@@ -323,7 +324,7 @@
 
         .contact-btn {
             padding: 18px 40px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #ea66a6 0%, #a24b81 100%);
             color: white;
             text-decoration: none;
             border-radius: 50px;
